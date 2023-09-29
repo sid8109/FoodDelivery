@@ -7,7 +7,7 @@
 
 ## Introduction
 
-Welcome to the Food Delivery App README! This application is designed to provide users with an efficient way to order food from various restaurants. Users can easily add food items to their cart and remove them as needed. The app is built using HTML, CSS, JavaScript, and React.js, making use of React hooks for state management.
+Welcome to the Food Delivery App README! This application is designed to provide users with an efficient way to order food from various restaurants. Users can easily add food items to their cart and remove them as needed. The app is built using HTML, CSS, JavaScript, and React.js, making use of React hooks for state management. the project stores data in firebase. The order data is also stored in the firebase.
 
 ## Features
 
